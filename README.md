@@ -32,6 +32,6 @@ Outside the core stack, I tinker with generative AI — image generation with St
 
 ### Reach me
 
-Always happy to talk full-stack, product, or agentic workflows — or to contribute to any interesting development projects.
+Always happy to talk full-stack, product, agentic workflows — or contributing to any interesting development projects.
 
 📬 [shanahan.suresh1@gmail.com](mailto:shanahan.suresh1@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shanahan-suresh/)

@@ -3,7 +3,7 @@
 **Full-stack web developer & product engineer** · Python + TypeScript · I design and ship production web apps on GCP.
 
 ```text
-Django / DRF · FastAPI · SvelteKit · Next.js · React · PostgreSQL · GCP Cloud Run · Docker
+Django / DRF · SvelteKit · Next.js · React · PostgreSQL · GCP Cloud Run · Docker
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Django / DRF · FastAPI · SvelteKit · Next.js · React · PostgreSQL · GCP Cl
 
 ---
 
-🔭 These days I'm building internal web platforms for a large Malaysian property & construction group — full-stack work that spans Django and FastAPI REST APIs, polished SvelteKit and Next.js frontends, and GCP Cloud Run underneath it all.
+🔭 These days I'm building internal web platforms for a large Malaysian property & construction group — full-stack work that spans Django and REST APIs, polished SvelteKit and Next.js frontends, and GCP Cloud Run underneath it all.
 
 My mindset is more product engineer than code-writer: what matters is the satisfying outcome users actually receive. In practice, that means treating UI/UX as part of the craft.
 

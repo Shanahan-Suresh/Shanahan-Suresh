@@ -38,6 +38,4 @@ Always happy to talk full-stack, product, MCP and agentic workflows, or to contr
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Shanahan-Suresh/flat-earth-sim"><img src="https://raw.githubusercontent.com/Shanahan-Suresh/flat-earth-sim/main/screenshots/demo.gif" alt="Flat Earth Sim" width="640"></a>
-</p>
+<a href="https://github.com/Shanahan-Suresh/flat-earth-sim"><img src="https://raw.githubusercontent.com/Shanahan-Suresh/flat-earth-sim/main/screenshots/demo.gif" alt="Flat Earth Sim" width="100%"></a>
